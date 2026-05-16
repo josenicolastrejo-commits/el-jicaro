@@ -1,18 +1,17 @@
-# 🌿 Centro Ecoturístico El Jícaro – Landing Page
+# Centro Ecoturístico El Jícaro – Landing Page
 
 > Landing page oficial de las **Cabañas El Jícaro**, ubicadas en **Atiquizaya, Ahuachapán, El Salvador**.  
 > Desarrollada con HTML5, CSS3 y JavaScript puro (Vanilla JS). Publicada en GitHub Pages.
 
 ---
 
-## 🔗 Demo en vivo
+## Demo: CLIC PARA VISITAR ON-LINE Avances...
 
 **[Ver sitio →](https://josenicolastrejo-commits.github.io/el-jicaro/)**  
-*(Reemplaza `TU-USUARIO` con tu nombre de usuario en GitHub)*
 
 ---
 
-## 📸 Vista general
+## Vista general
 
 | Sección | Imagen utilizada | Descripción |
 |---|---|---|
@@ -45,8 +44,6 @@ el-jicaro/
     └── Cabañas_familiar.jpg → Sección Cabaña Familiar
 ```
 
----
-
 ### Secciones obligatorias
 - [x] **Hero** – Foto real a pantalla completa (`Imagen3.jpg`), título con Playfair Display, subtítulo y dos CTA buttons
 - [x] **Navbar** – Fija (`position: fixed`), enlaces ancla (`href="#seccion"`), menú hamburguesa animado para móvil
@@ -66,7 +63,7 @@ el-jicaro/
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 | Tecnología | Uso |
 |---|---|
@@ -82,24 +79,14 @@ el-jicaro/
 
 ---
 
-## 📦 Instalación local
+## Instalación local
 
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/josenicolastrejo-commits.github.io/el-jicaro.git
 
-# 2. Entrar a la carpeta
-cd el-jicaro
 
-# 3. Abrir en el navegador
-# Opción A: doble clic en index.html
-# Opción B: con Live Server en VS Code (recomendado)
-# Opción C: con Python
-python -m http.server 8000
-# → Abrir http://localhost:8000
-```
-
-## 📝 Historial de commits documentados
+## Historial de commits documentados
 
 ```
 commit 1 – feat: estructura inicial HTML5 con secciones base
@@ -154,7 +141,7 @@ git push origin main
 
 ---
 
-## 🎨 Paleta de colores
+## Paleta de colores
 
 | Variable CSS | Color | Uso |
 |---|---|---|
@@ -168,7 +155,7 @@ git push origin main
 
 ---
 
-## 🔍 Validación JavaScript – Campos del formulario
+## Validación JavaScript – Campos del formulario
 
 | Campo | Validación |
 |---|---|
@@ -181,7 +168,7 @@ git push origin main
 
 ---
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 | Breakpoint | Cambios |
 |---|---|
@@ -190,13 +177,13 @@ git push origin main
 
 ---
 
-## 🖼️ Créditos fotográficos
+## Créditos fotográficos
 
 Todas las fotografías utilizadas son propiedad del **Centro Ecoturístico El Jícaro** y fueron tomadas en sus instalaciones ubicadas en Atiquizaya, Ahuachapán, El Salvador.
 
 ---
 
-## 👨‍💻 Créditos de desarrollo
+## Créditos de desarrollo
 
 Desarrollado como proyecto educativo para integrar HTML5, CSS3, JavaScript y GitHub Pages.
 
