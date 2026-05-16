@@ -7,7 +7,7 @@
 
 ## 🔗 Demo en vivo
 
-**[Ver sitio →](https://TU-USUARIO.github.io/el-jicaro)**  
+**[Ver sitio →](https://josenicolastrejo-commits.github.io/el-jicaro/)**  
 *(Reemplaza `TU-USUARIO` con tu nombre de usuario en GitHub)*
 
 ---
@@ -46,8 +46,6 @@ el-jicaro/
 ```
 
 ---
-
-## ✅ Requisitos cumplidos
 
 ### Secciones obligatorias
 - [x] **Hero** – Foto real a pantalla completa (`Imagen3.jpg`), título con Playfair Display, subtítulo y dos CTA buttons
@@ -88,7 +86,7 @@ el-jicaro/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU-USUARIO/el-jicaro.git
+git clone https://github.com/josenicolastrejo-commits.github.io/el-jicaro.git
 
 # 2. Entrar a la carpeta
 cd el-jicaro
@@ -145,14 +143,8 @@ commit 3 – feat: navbar fija con anclas y menú hamburguesa responsive
 commit 4 – feat: secciones nosotros, servicios y cabañas con CSS Grid
 commit 5 – feat: formulario de reserva con validación JavaScript completa
 commit 6 – feat: footer con redes sociales y año dinámico con JS
-commit 7 – feat: integración de fotografías reales del centro ecoturístico
-commit 8 – fix: responsive design para tablet (900px) y móvil (640px)
-commit 9 – docs: README actualizado con estructura de imágenes y commits
 ```
 
-### Cómo hacer los commits paso a paso
-
-```bash
 # Commit 1 – Estructura inicial
 git add index.html
 git commit -m "feat: estructura inicial HTML5 con secciones base"
@@ -245,4 +237,4 @@ Desarrollado como proyecto educativo para integrar HTML5, CSS3, JavaScript y Git
 
 ---
 
-*© 2025 El Jícaro – Todos los derechos reservados.*
+*© 2026 El Jícaro – Todos los derechos reservados.*
