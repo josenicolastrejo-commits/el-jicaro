@@ -99,41 +99,6 @@ python -m http.server 8000
 # → Abrir http://localhost:8000
 ```
 
-> ⚠️ **Nota:** Usar Live Server o servidor local es recomendable para que las imágenes de la carpeta `img/` carguen correctamente.
-
----
-
-## 🚀 Despliegue en GitHub Pages
-
-### Paso 1 – Inicializar y subir el repositorio
-
-```bash
-# Inicializar Git en la carpeta del proyecto
-git init
-
-# Agregar todos los archivos (incluida la carpeta img/)
-git add .
-
-# Primer commit
-git commit -m "feat: estructura inicial del proyecto El Jícaro"
-
-# Conectar con GitHub (reemplaza TU-USUARIO y el nombre del repo)
-git remote add origin https://github.com/TU-USUARIO/el-jicaro.git
-git branch -M main
-git push -u origin main
-```
-
-### Paso 2 – Activar GitHub Pages
-
-1. Ve a tu repositorio en GitHub
-2. Clic en **Settings** (Configuración)
-3. Menú lateral → **Pages**
-4. En *Branch*, selecciona `main` → carpeta `/ (root)`
-5. Clic en **Save**
-6. En 1-2 minutos tu sitio estará en: `https://TU-USUARIO.github.io/el-jicaro`
-
----
-
 ## 📝 Historial de commits documentados
 
 ```
@@ -143,6 +108,8 @@ commit 3 – feat: navbar fija con anclas y menú hamburguesa responsive
 commit 4 – feat: secciones nosotros, servicios y cabañas con CSS Grid
 commit 5 – feat: formulario de reserva con validación JavaScript completa
 commit 6 – feat: footer con redes sociales y año dinámico con JS
+
+
 ```
 
 # Commit 1 – Estructura inicial
